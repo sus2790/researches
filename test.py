@@ -1,4 +1,3 @@
 from researches.search import search
 
-print(search("who invited paper"))
-
+print(search("never gonna give you up").lyrics)
